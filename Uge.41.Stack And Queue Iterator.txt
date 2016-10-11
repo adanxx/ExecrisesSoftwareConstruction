@@ -1,0 +1,5 @@
+For BlackExercises for Week.41 - Tueday: implement Iterator for your Stack and Queue implementation. 
+
+Check The Zip folder for Week.39.Abstract Datatype: The Iterator are implement and test in the main
+along with the rest of exercises requirment.
+
